@@ -19,10 +19,10 @@ class Page extends Component {
     let popup = document.getElementById("popup"); 
     
     function openPopup(){
-        popup.classList.add("open-popup"); 
+        popup.classList.add("open-popup")
     }
     function closePopup(){
-        popup.classList.remove("open -popup");
+        popup.classList.remove("open -popup")
     }
     
     </script>
